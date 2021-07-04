@@ -1,6 +1,10 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+
+.navbar{
+    background-color: rgb(40,62,144);
+}
 .main{
     margin-top: 30px;
 }
@@ -103,7 +107,7 @@
 }
 /* Footer */
 footer{
-    background-color: #283E90;
+    background-color: rgb(40,62,144);
     color: white;
 }
 
